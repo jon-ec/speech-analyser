@@ -1,0 +1,23 @@
+{
+  "name": "speech-analyser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jon-ec/speech-analyser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jon-ec/speech-analyser/issues"
+  },
+  "homepage": "https://github.com/jon-ec/speech-analyser#readme",
+  "dependencies": {
+    "@google-cloud/speech": "^0.6.0",
+    "node-record-lpcm16": "^0.2.0"
+  }
+}
